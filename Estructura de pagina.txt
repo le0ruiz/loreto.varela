@@ -1,0 +1,18 @@
+loreto-varela-gh/
+│
+├── index.html                 # Archivo principal (HTML + CSS + JS embebidos)
+├── assets/
+│   ├── images/
+│   │   ├── loreto-hero.jpg    # 1200x1400px, estilo editorial
+│   │   ├── loreto-about.jpg   # 800x1000px, foto cercana
+│   │   └── favicon.png        # 32x32px, ícono "LV"
+│   └── docs/
+│       └── cv-loreto-varela.pdf  # CV para descargar
+│
+├── .gitignore                 # Archivos a ignorar (opcional pero recomendado)
+├── README.md                  # Instrucciones del proyecto
+├── CNAME                      # (Opcional) para dominio personalizado loreto-varela.cl
+│
+└── .github/
+    └── workflows/
+        └── deploy.yml         # (Opcional) para CI/CD automático
